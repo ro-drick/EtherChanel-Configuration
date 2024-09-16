@@ -165,5 +165,3 @@ After completing the EtherChannel configuration, you can assign IP addresses to 
 This lab demonstrates the step-by-step configuration of EtherChannel using Layer 3 switches. By disabling switchport mode and enabling IP routing, the switches can route traffic between different networks using logical port-channel interfaces. Once IP addresses are assigned to the PCs, further network tests can be conducted.
 
 ---
-
-Let me know if this covers all the steps or if you need further adjustments!
